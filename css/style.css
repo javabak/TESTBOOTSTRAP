@@ -1,0 +1,99 @@
+.upMenu a {
+    color: #b2b2b2;
+    text-transform: uppercase;
+    margin-left: 3px;
+}
+
+nav a {
+    color: #b2b2b2;
+    text-transform: uppercase;
+}
+
+.navbar-nav .nav-link.active {
+    color: #2978d3 !important;
+}
+
+section {
+    padding: 5em 0em 0em 0em;
+}
+
+#Means h2 {
+    color: #000000;
+    font-family: "Merriaweather", sans-serif;
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 53px;
+    letter-spacing: -0.2px;
+    text-align: center;
+}
+
+#Means h3 {
+    color: #000000;
+    font-family: "Merriaweather", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 37px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+
+#Means h4 {
+    color: #888888;
+    font-family: "Libre Franklin", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+
+#Means i {
+    width: 5em;
+    height: 5em;
+    position: relative;
+    display: block;
+    margin: 0 auto;
+}
+
+#Author div {
+    background-image: url(../image/back.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    align-content: center;
+}
+
+#Chapter div {
+    align-content: center;
+    align-items: center;
+}
+
+#About div {
+    background-image: url(../image/subscribe.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    align-content: center;
+}
+
+#About {
+    text-align: center;
+    padding: 2 em 0 2em 0;
+}
+
+#About form {
+    justify-content: center;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    padding: 5em;
+}
+
+footer div {
+    align-items: center;
+    align-content: center;
+}
